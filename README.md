@@ -1,7 +1,7 @@
 # PhysicsAR
 My own AR project files
 # Augmented Reality App for School education
-
+Only Android support!
 ## Overview
 This project is an Augmented Reality (AR) application developed for Physics classes. The app combines innovative technologies, including AR and AI, to create a dynamic and immersive learning experience.
 
